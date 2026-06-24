@@ -8,3 +8,5 @@ sentence-transformers
 langchain-huggingface
 langchain-groq
 python-dotenv
+torch
+torchvision
